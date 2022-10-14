@@ -1,4 +1,4 @@
 # hello-world
-Learning GitHub
+Learning GitHub.
 
-Hi hi hi
+Started in 2019, continuing in 2022.
